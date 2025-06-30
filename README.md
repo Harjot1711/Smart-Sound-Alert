@@ -45,11 +45,11 @@ Sound Guardian turns any web-connected device into a local safety monitor:
 |Accessible Design|Keyboard-navigable, high-contrast palette, vibratory feedback|
 
 ---
-
 ## Screenshots
 | Listen Screen | Settings | History | Alert Modal |
 |:-------------:|:--------:|:-------:|:-----------:|
-|![Listen](assets/listen.png)<br><sub><sup>Start/stop protection & quick test buttons.</sup></sub>|![Settings](assets/settings.png)<br><sub><sup>Enable/disable each detector & alert channel.</sup></sub>|![History](assets/history.png)<br><sub><sup>View stats, filter by sound type.</sup></sub>|![Alert](assets/alert-modal.png)<br><sub><sup>Doorbell alert with 92 % confidence.</sup></sub>|
+|![Listen](assets/Listen%20Screen.png)<br><sub><sup>Start/stop protection & quick test buttons.</sup></sub>|![Settings](assets/Settings.png)<br><sub><sup>Enable/disable each detector & alert channel.</sup></sub>|![History](assets/History.png)<br><sub><sup>View stats, filter by sound type.</sup></sub>|![Alert](assets/Alert%20Modal.png)<br><sub><sup>Doorbell alert with 92 % confidence.</sup></sub>|
+
 
 ---
 
