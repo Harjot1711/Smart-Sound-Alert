@@ -3,6 +3,8 @@ Your personal, on-device sound-detection assistant for safety and peace of mind
 
 [Live Demo (Netlify)](https://stately-flan-0c48e8.netlify.app/)
 
+[Watch on YouTube](https://youtu.be/JLx8EOsm0PQ)
+
 ---
 
 ## Table of Contents
