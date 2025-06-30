@@ -1,7 +1,7 @@
 # 🛡️ Sound Guardian  
 Your personal, on-device sound-detection assistant for safety and peace of mind
 
-[Live Demo (Netlify)]([https://YOUR-SUBDOMAIN.netlify.app](https://stately-flan-0c48e8.netlify.app/))
+[Live Demo (Netlify)](https://stately-flan-0c48e8.netlify.app/)
 
 ---
 
