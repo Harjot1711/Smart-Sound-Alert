@@ -1,7 +1,7 @@
 # 🛡️ Sound Guardian  
 Your personal, on-device sound-detection assistant for safety and peace of mind
 
-[Live Demo (Netlify)](https://YOUR-SUBDOMAIN.netlify.app) • [GitHub Repo]([https://github.com/YOUR-NAME/sound-guardian](https://github.com/Harjot1711/Smart-Sound-Alert/blob/main/README.md))
+[Live Demo (Netlify)](https://YOUR-SUBDOMAIN.netlify.app)
 
 ---
 
